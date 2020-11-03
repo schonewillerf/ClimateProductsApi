@@ -1,0 +1,14 @@
+{
+  "name": "climateproductsapi",
+  "version": "1.0.0",
+  "description": "Products Api for ClimateApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Raymond Schonewille",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
